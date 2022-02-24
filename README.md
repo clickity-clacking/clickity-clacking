@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clickity-clacking
+- 👋 Hi, I’m @clickity-clacking aka Marissa
 - 👀 I’m interested in full stack development, blockchain development, and BTS...
 
 
